@@ -1,0 +1,5 @@
+name: WarnPlugin
+author: AidenKR
+version: 5.0.0
+api: 5.0.0
+main: AidenKR\WarnPlugin\WarnPlugin
